@@ -1,11 +1,11 @@
 set(package rapidjson)
-set(version 0.1.0)
+set(version 1.1.0)
 
 
 byd__package__info(${package}
 	MAINTAINER_NAME "Fabien Lassagne"
 	MAINTAINER_EMAIL "flassagne@unowhy.com"
-	VERSION ${version}
+	VERSION ${version}-1
 	ABI ${version}
 	)
 
